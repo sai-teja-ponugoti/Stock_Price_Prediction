@@ -1,4 +1,4 @@
-# Stock_Price_Prediction
+# Stock Price Prediction
 Using time series data to predict the furture stock price using previous data
 
 
